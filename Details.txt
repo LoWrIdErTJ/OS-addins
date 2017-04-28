@@ -1,0 +1,5 @@
+SYSTEM ("Shutdown", "Restart", "Log off", "Lock PC", "Hibernate", "Sleep/Standby")
+SYSTEM MUTE UNMUTE
+FREE UP MY MEMORY (All running processes)
+CLEAR TEMP RECENT AND PREFETCH
+15.00
